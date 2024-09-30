@@ -1,4 +1,7 @@
 
+
+## Amortization Calculator
+
 Here's a simple web app to calculate and visualize loan amortization/ schedules.
 
 It provides detailed insights into your loan, including monthly payments, interest breakdown, and the remaining balance over time.
